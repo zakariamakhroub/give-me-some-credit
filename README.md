@@ -2,6 +2,8 @@ give me some credit
 
 Results :
 Validation AUC: 0.8679
+
+
               precision    recall  f1-score   support
 
            0       0.98      0.81      0.89     27995
